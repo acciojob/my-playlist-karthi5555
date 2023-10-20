@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 body{
-	background-color: lightgray;
+	background-color: rgb(204, 204, 204);
 }
 h1{
 	text-align: center;
@@ -9,7 +9,7 @@ h1{
 	list-style-type: none;
 	border-width: 1px;
 	border-style: solid;
-	background-color: white;
+	background-color: rgb(255, 255, 255);
 	padding: border-radius;
 }
 a{
@@ -20,7 +20,7 @@ h2{
 	text-align: center;
 }
 #audio_video{
-	background-color: white;
+	background-color: ;
 	border-width: 1px;
 	border-style: solid;
 }
