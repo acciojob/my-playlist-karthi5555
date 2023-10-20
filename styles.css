@@ -1,1 +1,29 @@
 /*  your css code here. If applicable */
+body{
+	background-color: lightgray;
+}
+h1{
+	text-align: center;
+}
+#song_list{
+	list-style-type: none;
+	border-width: 1px;
+	border-style: solid;
+	background-color: white;
+	padding: border-radius;
+}
+a{
+	text-decoration-line: none;
+}
+
+h2{
+	text-align: center;
+}
+#audio_video{
+	background-color: white;
+	border-width: 1px;
+	border-style: solid;
+}
+p{
+	text-align: justify;
+}
