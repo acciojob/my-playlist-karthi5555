@@ -1,29 +1,20 @@
 /*  your css code here. If applicable */
-body{
-	background-color: rgb(204, 204, 204);
-}
-h1{
-	text-align: center;
-}
-#song_list{
-	list-style-type: none;
-	border-width: 1px;
-	border-style: solid;
-	background-color: rgb(255, 255, 255);
-	padding: border-radius;
-}
-a{
-	text-decoration-line: none;
+body {
+    background-color: rgb(204, 204, 204);
+    font-family: 'Arial', sans-serif;
+    margin: 0;
 }
 
-h2{
-	text-align: center;
+.player_one, .player_two {
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
 }
-#audio_video{
-	background-color: ;
-	border-width: 1px;
-	border-style: solid;
+
+video, audio {
+    width: 100%;
 }
-p{
-	text-align: justify;
-}
+
+
+
