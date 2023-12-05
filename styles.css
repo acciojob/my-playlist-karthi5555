@@ -4,17 +4,31 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
 }
-
-.player_one, .player_two {
-    background-color: rgb(255, 255, 255);
-    padding: 10px;
-    border-radius: 10px;
-    margin-bottom: 20px;
+video{
+	padding: 20px 15px 5px 25px;
+	width: 350px;
+}
+audio{
+	padding: 5px 20px 20px 25px;
+	width: 350px;
+}
+ul{
+	border: 2px solid;
+	margin: 20px;
+	background-color: white;
+	border-radius: 5px;
+	text-align: left;
+}
+li{
+	align-text: left;
+}
+.container{
+	border: 2px solid;
+    margin: 40px;
+	background-color: rgb(255,255,255);
+	border-radius: 5px;
 }
 
-video, audio {
-    width: 100%;
-}
 
 
 
